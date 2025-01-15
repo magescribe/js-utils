@@ -19,13 +19,13 @@ JavaScript and TypeScript projects. Say goodbye to repetitive code and embrace c
 ## Installation
 
 ```bash
-  npm install js-utils
+  npm install @magescribe/js-utils
 ```
 
 ## Usage
 
 ```javascript
-import { removeDuplicates, capitalize } from "js-utils";
+import { removeDuplicates, capitalize } from "@magescribe/js-utils";
 
 // Remove duplicates from an array
 const unique = removeDuplicates([1, 2, 2, 3]);
